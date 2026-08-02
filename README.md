@@ -1,4 +1,4 @@
-# Simple Interest Calculator
+<h1 align="center"> Simple Interest Calculator</h1>
 
 A simple and responsive web application that calculates *Simple Interest* using HTML, CSS, and JavaScript.
 
