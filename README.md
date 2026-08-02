@@ -10,13 +10,13 @@ A simple and responsive web application that calculates *Simple Interest* using 
 - Clear button to reset all fields
 - Beginner-friendly project
 
-## 🛠️ Technologies Used
+ Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 
-## 📂 Project Structure
+ Project Structure
 
 
 simple-interest-calculator/
@@ -25,13 +25,13 @@ simple-interest-calculator/
 └── README.md
 
 
-## 📐 Formula
+Formula
 
 
 Simple Interest = (Principal × Rate × Time) / 100
 
 
-## ▶️ How to Run
+How to Run
 
 1. Download or clone this repository.
 2. Open simpleInterest.html in your web browser.
@@ -41,9 +41,6 @@ Simple Interest = (Principal × Rate × Time) / 100
    - Time
 4. Click *Simple Interest* to calculate the result.
 
-## 📸 Screenshot
-
-Add a screenshot of your project here.
 
 ## 👨‍💻 Author
 
