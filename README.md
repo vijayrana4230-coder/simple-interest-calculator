@@ -1,72 +1,51 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple Interest Calculator - README</title>
-</head>
-<body>
+# 💰 Simple Interest Calculator
 
-    <h1 align="center"> Simple Interest Calculator</h1>
+A simple and responsive web application that calculates *Simple Interest* using HTML, CSS, and JavaScript.
 
-    <p>
-        A simple and responsive web application that calculates
-        <strong>Simple Interest</strong> using HTML, CSS, and JavaScript.
-    </p>
+## 🚀 Features
 
-    <hr>
+- Calculate Simple Interest instantly
+- Clean and responsive user interface
+- Input validation
+- Clear button to reset all fields
+- Beginner-friendly project
 
-    <h2>🚀 Features</h2>
-    <ul>
-        <li>Calculate Simple Interest instantly</li>
-        <li>Responsive user interface</li>
-        <li>Easy to use</li>
-        <li>Clear button to reset inputs</li>
-        <li>Beginner-friendly project</li>
-    </ul>
+## 🛠️ Technologies Used
 
-    <h2>🛠️ Technologies Used</h2>
-    <ul>
-        <li>HTML5</li>
-        <li>CSS3</li>
-        <li>JavaScript</li>
-    </ul>
+- HTML5
+- CSS3
+- JavaScript
 
-    <h2>📂 Project Structure</h2>
+## 📂 Project Structure
 
-    <pre>
+
 simple-interest-calculator/
 │── simpleInterest.html
 │── simpleInterest.css
 └── README.md
-    </pre>
 
-    <h2>📐 Formula</h2>
 
-    <pre>
+## 📐 Formula
+
+
 Simple Interest = (Principal × Rate × Time) / 100
-    </pre>
 
-    <h2>How to Use</h2>
 
-    <ol>
-        <li>Open <strong>simpleInterest.html</strong> in your browser.</li>
-        <li>Enter Principal Amount.</li>
-        <li>Enter Rate of Interest.</li>
-        <li>Enter Time.</li>
-        <li>Click the <strong>Simple Interest</strong> button.</li>
-        <li>The result will be displayed instantly.</li>
-    </ol>
+## ▶️ How to Run
 
-    <h2> Author</h2>
+1. Download or clone this repository.
+2. Open simpleInterest.html in your web browser.
+3. Enter:
+   - Principal Amount
+   - Rate of Interest
+   - Time
+4. Click *Simple Interest* to calculate the result.
 
-    <p><strong>Vijay Singh</strong></p>
+## 📸 Screenshot
 
-    <hr>
+Add a screenshot of your project here.
 
-    <p>
-        ⭐ If you like this project, please give it a star on GitHub.
-    </p>
+## 👨‍💻 Author
 
-</body>
-</html>
+*Vijay Singh*
+
