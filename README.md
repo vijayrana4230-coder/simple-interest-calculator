@@ -38,10 +38,6 @@ Simple Interest = (Principal × Rate × Time) / 100
    - Time
 4. Click *Simple Interest* to calculate the result.
 
-## 🚀 Live Demo
-
-[View Live Demo](https://vijayrana4230-coder.github.io/simple-interest-calculator/)
-
 ##  Author
 
 *Vijay Singh*
